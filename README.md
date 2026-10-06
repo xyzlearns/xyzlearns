@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Asmitjyoti 👋
 
-<!--
-**xyzlearns/xyzlearns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | IIT BHU
 
-Here are some ideas to get you started:
+I'm a Pharmaceutical Engineering student at IIT BHU interested in
+software engineering, backend systems, Android development, and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building real products and learning by solving problems.
+
+### Tech Stack
+
+Java · Kotlin · Python · Spring Boot · Android · React ·
+Next.js · SQL · MongoDB · Docker · Git · Linux
+
+### What I'm Working On
+
+- 🚀 Building products at Dedisive Labs
+- 📱 Developing Android applications
+- 🤖 Exploring AI & Computer Vision
+- 💻 Improving my DSA and software engineering skills
+
+### Featured Projects
+
+🔹 **Vagabond** — Focus & productivity app  
+🔹 **Retail Vision AI** — Computer vision inventory pipeline  
+🔹 **Food Delivery App** — Full-stack Android + Spring Boot application
+
+### Connect
+
+[LinkedIn](...) · [Portfolio](https://xyzlearns.github.io) · [Email](mailto:asmitjyotib@gmail.com)
