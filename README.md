@@ -27,4 +27,4 @@ Next.js · SQL · MongoDB · Docker · Git · Linux
 
 ### Connect
 
-[LinkedIn](...) · [Portfolio](https://xyzlearns.github.io) · [Email](mailto:asmitjyotib@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/asmitjyoti-barman/) · [Portfolio](https://xyzlearns.github.io) · [Email](mailto:asmitjyotib@gmail.com)
