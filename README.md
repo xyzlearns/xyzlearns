@@ -25,8 +25,8 @@ Next.js · SQL · MongoDB · Docker · Git · Linux
 🔹 **Retail Vision AI** — Computer vision inventory pipeline  
 🔹 **Food Delivery App** — Full-stack Android + Spring Boot application
 
-#### Let's connect!
+### Let's connect!
+
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@asmitjyotib)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/asmitjyoti-barman/)
-
-[LinkedIn](https://www.linkedin.com/in/asmitjyoti-barman/) · [Portfolio](https://xyzlearns.github.io) · [Email](mailto:asmitjyotib@gmail.com)
+[<img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:asmitjyotib@gmail.com)
