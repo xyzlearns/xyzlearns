@@ -9,8 +9,7 @@ I enjoy building real products and learning by solving problems.
 
 ### Tech Stack
 
-Java · Kotlin · Python · Spring Boot · Android · React ·
-Next.js · SQL · MongoDB · Docker · Git · Linux
+Java · Kotlin · Python · Spring Boot · Android · SQL · MongoDB · Docker · Git · Linux
 
 ### What I'm Working On
 
